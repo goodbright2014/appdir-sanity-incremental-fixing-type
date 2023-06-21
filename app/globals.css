@@ -169,3 +169,17 @@
   opacity: 0;
   pointer-events: none;
 }
+/*
+.parallax {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.parallax-layer {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+*/
